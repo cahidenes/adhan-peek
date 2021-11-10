@@ -1,0 +1,11 @@
+19.0    # fajr Angle
+17.0    # isha Angle
+0       # isha interval, 0 if not used
+0       # highLatitudeRule (0 = middle of the night, 1 = seventh of the night, 2 = twilight angle)
+SINGLE  # shadowLength (SINGLE or DOUBLE)
+4       # fajr adjustment
+-8      # sunrise adjustment
+4       # dhuhr adjustment
+4       # asr adjustment
+6       # maghrib adjustment
+0       # isha adjustment

@@ -1,0 +1,23 @@
+# Spawn position of the panel
+1400     # x
+100     # y 
+
+# Window size
+400     # Width
+250     # Height
+
+# Background color of the panel
+0       # r
+105     # g
+92      # b
+
+# Text color
+255     # r
+255     # g
+255     # b
+
+100     # font size
+
+2000    # timeout in milliseconds
+
+10      # max negative remaining
